@@ -12,6 +12,9 @@ This project focuses on classifying paddy (rice) leaf images to identify plant d
 - Classify common paddy leaf diseases using image data
 - Reduce dependency on manual inspection
 
+Dataset:
+https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking
+
 ## 🛠️ Technologies Used
 - Python
 - Machine Learning / Deep Learning
