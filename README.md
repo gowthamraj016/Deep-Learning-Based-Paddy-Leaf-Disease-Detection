@@ -4,6 +4,9 @@ Deep learning–based paddy leaf disease detection using the Paddy Doctor datase
 
 # Paddy Leaf Disease Classification 🌾
 
+Dataset:
+https://ieee-dataport.org/documents/paddy-doctor-visual-image-dataset-automated-paddy-disease-classification-and-benchmarking
+
 ## 📖 Overview
 This project focuses on classifying paddy (rice) leaf images to identify plant diseases using machine learning techniques. Early detection of crop diseases helps farmers take preventive measures and improve agricultural productivity.
 
